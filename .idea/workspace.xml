@@ -2,44 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f361c5-73e4-4d68-8d49-8fc228220d42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2009.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2010.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2011.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2012.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2013.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2014.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2015.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2016.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2017.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/complexity_data/complexity_2018.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_data/program/process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2009.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2010.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2011.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2012.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2013.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2014.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2015.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2016.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2017.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step2/data/2018.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step3/data/国家出口(1).xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step3/program/calculate_complexity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_step3/program/process_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2009.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2010.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2011.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2012.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2013.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2014.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2015.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2016.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2017.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data/2018.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2009_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2010_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2011_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2012_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2013_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2014_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2015_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2016_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2017_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_processed/2018_processed.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_step0/data_read_iter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2009.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2009.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2010.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2010.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2011.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2011.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2012.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2012.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2013.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2013.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2014.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2014.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2015.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2015.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2016.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2016.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2017.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2017.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/2018.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/common_data/province_data/2018.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_step2/program/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_step2/program/process.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,42 +42,37 @@
   </component>
   <component name="ProjectId" id="1oBTi2r1BvRtNQtUw8SwW0xqy0N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common_data/program" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_step0" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\Dong\data_analysis\data_step0" />
+      <recent name="C:\Mine\Project\Python\Dong_data_process\common_data\program" />
+      <recent name="C:\Mine\Project\Python\Dong_data_process\common_data\province_data" />
+      <recent name="C:\Mine\Project\Python\Dong_data_process\common_data\complexity_data" />
+      <recent name="C:\Mine\Project\Python\Dong_data_process\data_step3\program" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Mine\Project\Python\Dong_data_process\data_step2\data" />
       <recent name="C:\Mine\Project\Python\Dong_data_process\data_step1" />
       <recent name="C:\Mine\Project\Python\Dong_data_process" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Mine\Project\Python\Dong_data_process\common_data\program" />
-      <recent name="C:\Mine\Project\Python\Dong_data_process\common_data\province_data" />
-      <recent name="C:\Mine\Project\Python\Dong_data_process\common_data\complexity_data" />
-      <recent name="C:\Mine\Project\Python\Dong_data_process\data_step3\program" />
-      <recent name="C:\Mine\Project\Python\Dong_data_process\data_step3\data" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.calculate_complexity (1)">
     <configuration name="calculate_complexity (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -215,6 +195,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,6 +222,7 @@
       <workItem from="1612978988472" duration="598000" />
       <workItem from="1612981459276" duration="6644000" />
       <workItem from="1613302383969" duration="1230000" />
+      <workItem from="1613550570935" duration="37000" />
     </task>
     <servers />
   </component>
@@ -248,6 +241,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="342" key="SettingsEditor" timestamp="1613550606739">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1613550606739" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -278,12 +277,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Dong_data_process$process.coverage" NAME="process Coverage Results" MODIFIED="1612960600146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_step2/program" />
-    <SUITE FILE_PATH="coverage/Dong_data_process$test.coverage" NAME="test Coverage Results" MODIFIED="1612771898358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Dong_data_process$data_process.coverage" NAME="data_process Coverage Results" MODIFIED="1612774449778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Dong_data_process$calculate_complexity.coverage" NAME="calculate_complexity Coverage Results" MODIFIED="1612797177771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Dong_data_process$process_repeat.coverage" NAME="process_repeat Coverage Results" MODIFIED="1613035056101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_step3/program" />
+    <SUITE FILE_PATH="coverage/Dong_data_process$data_process.coverage" NAME="data_process Coverage Results" MODIFIED="1612774449778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Dong_data_process$calculate_complexity__1_.coverage" NAME="calculate_complexity (1) Coverage Results" MODIFIED="1613035200998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_step3/program" />
+    <SUITE FILE_PATH="coverage/Dong_data_process$test.coverage" NAME="test Coverage Results" MODIFIED="1612771898358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Dong_data_process$process.coverage" NAME="process Coverage Results" MODIFIED="1612960600146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_step2/program" />
+    <SUITE FILE_PATH="coverage/Dong_data_process$process_repeat.coverage" NAME="process_repeat Coverage Results" MODIFIED="1613035056101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_step3/program" />
     <SUITE FILE_PATH="coverage/Dong_data_process$gdp_connect.coverage" NAME="gdp_connect Coverage Results" MODIFIED="1612794686846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
